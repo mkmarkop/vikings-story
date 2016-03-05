@@ -1,0 +1,12 @@
+name:s>9
+enemies:l>[s>lilkraken,s>lilkraken,s>lilkraken]
+waves:i>2
+wave_t:l>[i>5,i>20,i>20]
+quantity:l>[i>6,i>8,i>10]
+map:s>map09.xml
+start:l>[i>14,i>0]
+waypoint:l>[l>[i>14,i>7],l>[i>7,i>7],l>[i>7,i>14],l>[i>2,i>14],l>[i>2,i>19]]
+float:l>[l>[i>13,i>0,i>0],l>[f>15.3,i>0,i>0],l>[i>14,i>8,i>1],l>[i>6,i>7,i>0],l>[i>7,i>15,i>1],l>[i>1,i>14,i>0]]
+req:s>8
+reward:i>175
+weather:s>rain

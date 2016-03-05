@@ -1,0 +1,12 @@
+name:s>4
+enemies:l>[s>goblin,s>goblin,s>skeleton,s>skeleton,s>skeleton]
+waves:i>3
+wave_t:l>[i>10,i>15,i>15,i>12,i>12]
+quantity:l>[i>8,i>9,i>3,i>4,i>4]
+map:s>map04.xml
+start:l>[i>14,i>0]
+waypoint:l>[l>[i>14,i>8],l>[i>6,i>8],l>[i>6,i>13],l>[i>21,i>13],l>[i>21,i>17],l>[i>14,i>17],l>[i>14,i>19]]
+req:s>3
+reward:i>140
+unlock:s>Spell-FA
+weather:s>rain

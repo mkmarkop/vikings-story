@@ -1,0 +1,12 @@
+name:s>18
+enemies:l>[s>seaserpent,s>seaserpent]
+waves:i>2
+wave_t:l>[i>10,i>30]
+quantity:l>[i>2,i>2]
+map:s>map18.xml
+start:l>[i>2,i>0]
+waypoint:l>[l>[i>2,i>2],l>[i>6,i>2],l>[i>6,i>12],l>[i>15,i>12],l>[i>15,i>19]]
+req:s>17
+reward:i>90
+weather:s>sunny
+unlock:s>Spell-CO

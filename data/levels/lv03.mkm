@@ -1,0 +1,12 @@
+name:s>3
+enemies:l>[s>boar,s>boar,s>goblin,s>goblin,s>goblin]
+waves:i>3
+wave_t:l>[i>5,i>8,i>11,i>8,i>8]
+quantity:l>[i>10,i>10,i>7,i>8,i>9]
+map:s>map03.xml
+start:l>[i>8,i>0]
+waypoint:l>[l>[i>8,i>6],l>[i>23,i>6],l>[i>23,i>12],l>[i>15,i>12],l>[i>15,i>19]]
+req:s>2
+reward:i>140
+unlock:s>Tower-ST
+weather:s>sunny

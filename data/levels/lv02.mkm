@@ -1,0 +1,12 @@
+name:s>2
+enemies:l>[s>boar,s>boar,s>goblin,s>goblin]
+waves:i>2
+wave_t:l>[i>5,i>8,i>13,i>10]
+quantity:l>[i>8,i>10,i>5,i>5]
+map:s>map02.xml
+start:l>[i>13,i>0]
+waypoint:l>[l>[i>13,i>6],l>[i>8,i>6],l>[i>8,i>11],l>[i>13,i>11],l>[i>13,i>19]]
+req:s>Tutorial
+reward:i>120
+unlock:s>Spell-EY
+weather:s>sunny

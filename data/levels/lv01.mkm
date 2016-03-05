@@ -1,0 +1,12 @@
+name:s>Tutorial
+enemies:l>[s>boar,s>boar]
+waves:i>1
+wave_t:l>[i>5,i>8]
+quantity:l>[i>5,i>8]
+map:s>map01.xml
+start:l>[i>23,i>0]
+waypoint:l>[l>[i>23,i>7],l>[i>17,i>7],l>[i>17,i>14],l>[i>10,i>14],l>[i>10,i>19]]
+req:s>None
+reward:i>100
+weather:s>rain
+unlock:s>Spell-SU

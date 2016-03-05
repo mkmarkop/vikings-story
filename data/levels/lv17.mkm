@@ -1,0 +1,12 @@
+name:s>17
+enemies:l>[s>warrior,s>warrior]
+waves:i>2
+wave_t:l>[i>5,i>25]
+quantity:l>[i>2,i>2]
+map:s>map17.xml
+start:l>[i>13,i>0]
+waypoint:l>[l>[i>13,i>4],l>[i>6,i>4],l>[i>6,i>10],l>[i>13,i>10],l>[i>13,i>17],l>[i>18,i>17],l>[i>18,i>19]]
+req:s>16
+reward:i>90
+weather:s>sunny
+unlock:s>Tower-EF

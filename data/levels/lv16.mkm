@@ -1,0 +1,11 @@
+name:s>16
+enemies:l>[s>seaserpent,s>seaserpent]
+waves:i>2
+wave_t:l>[i>10,i>30]
+quantity:l>[i>7,i>7]
+map:s>map16.xml
+start:l>[i>30,i>0]
+waypoint:l>[l>[i>30,i>7],l>[i>23,i>7],l>[i>23,i>13],l>[i>4,i>13],l>[i>4,i>19]]
+req:s>15
+reward:i>200
+weather:s>sunny

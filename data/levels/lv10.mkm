@@ -1,0 +1,13 @@
+name:s>10
+enemies:l>[s>lilkraken,s>lilkraken,s>lilkraken,s>lilkraken]
+waves:i>3
+wave_t:l>[i>5,i>20,i>20,i>20]
+quantity:l>[i>10,i>12,i>14,i>16]
+map:s>map10.xml
+start:l>[i>1,i>0]
+waypoint:l>[l>[i>1,i>7],l>[i>15,i>7],l>[i>15,i>12],l>[i>24,i>12],l>[i>24,i>19]]
+float:l>[l>[i>0,i>0,i>0],l>[f>2.3,i>0,i>0],l>[i>1,i>8,i>3],l>[i>16,i>7,i>0],l>[i>15,i>13,i>3],l>[i>25,i>12,i>0]]
+req:s>9
+reward:i>150
+unlock:s>Spell-TH
+weather:s>sunny

@@ -1,0 +1,12 @@
+name:s>15
+enemies:l>[s>lilkraken,s>lilkraken,s>lilkraken,s>seaserpent,s>seaserpent]
+waves:i>5
+wave_t:l>[i>5,i>15,i>15,i>20,i>20]
+quantity:l>[i>6,i>6,i>6,i>2,i>2]
+map:s>map15.xml
+start:l>[i>25,i>0]
+waypoint:l>[l>[i>25,i>6],l>[i>19,i>6],l>[i>19,i>16],l>[i>10,i>16],l>[i>10,i>19]]
+req:s>14
+reward:i>160
+weather:s>rain
+unlock:s>Spell-OR

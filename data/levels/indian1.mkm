@@ -1,0 +1,11 @@
+name:s>BIndian1
+mode:s>ship
+map:s>indian1.xml
+start:l>[i>7,i>0]
+towers:l>[l>[i>3,i>8],l>[i>4,i>15],l>[i>12,i>5],l>[i>18,i>5],l>[i>21,i>3],l>[i>9,i>15]]
+barrels:l>[l>[i>7,i>5],l>[i>8,i>8],l>[i>10,i>6],l>[i>13,i>8],l>[i>4,i>11],l>[i>3,i>11],l>[i>2,i>11],l>[i>19,i>10],l>[i>25,i>12],l>[i>25,i>2],l>[i>27,i>2],l>[i>26,i>4]]
+req:s>7
+scroll:l>[i>28,i>12]
+weather:s>sunny
+unlock:s>Tower-LS
+intro:s>After a tough quarrel with Indians,\nyou must flee to the bottom of the map. Use\narrow keys to move and try to collect\nas many barrels as you can.\nAlso, that scroll looks interesting...

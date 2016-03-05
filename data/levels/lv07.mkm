@@ -1,0 +1,11 @@
+name:s>7
+enemies:l>[s>boar,s>skeleton,s>skeleton,s>troll,s>troll]
+waves:i>4
+wave_t:l>[i>5,i>10,i>25,i>30,i>25]
+quantity:l>[i>7,i>12,i>15,i>8,i>8]
+map:s>map07.xml
+start:l>[i>16,i>0]
+waypoint:l>[l>[i>16,i>5],l>[i>8,i>5],l>[i>8,i>10],l>[i>19,i>10],l>[i>19,i>5],l>[i>25,i>5],l>[i>25,i>14],l>[i>18,i>14],l>[i>18,i>19]]
+req:s>6
+reward:i>140
+weather:s>rain

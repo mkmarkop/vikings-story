@@ -1,0 +1,11 @@
+name:s>5
+enemies:l>[s>boar,s>goblin,s>goblin,s>skeleton,s>skeleton,s>troll]
+waves:i>3
+wave_t:l>[i>5,i>25,i>15,i>20,i>15,i>25]
+quantity:l>[i>15,i>10,i>12,i>10,i>10,i>2]
+map:s>map05.xml
+start:l>[i>18,i>0]
+waypoint:l>[l>[i>18,i>6],l>[i>8,i>6],l>[i>8,i>13],l>[i>18,i>13],l>[i>18,i>17],l>[i>8,i>17],l>[i>8,i>19]]
+req:s>4
+reward:i>150
+weather:s>rain

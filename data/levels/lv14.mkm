@@ -1,0 +1,11 @@
+name:s>14
+enemies:l>[s>lilkraken,s>lilkraken,s>lilkraken,s>lilkraken]
+waves:i>4
+wave_t:l>[i>5,i>15,i>15,i>15]
+quantity:l>[i>4,i>5,i>6,i>7]
+map:s>map14.xml
+start:l>[i>8,i>0]
+waypoint:l>[l>[i>8,i>14],l>[i>24,i>14],l>[i>24,i>19]]
+req:s>13
+reward:i>160
+weather:s>sunny

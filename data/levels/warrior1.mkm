@@ -1,0 +1,8 @@
+name:s>BWarrior1
+mode:s>warrior
+map:s>warrior1.xml
+start:l>[i>7,i>0]
+waypoint:l>[l>[i>7,i>9],l>[i>21,i>9],l>[i>21,i>14],l>[i>7,i>14],l>[i>7,i>25]]
+towers:l>[l>[i>0,i>6,i>5,i>0],l>[i>0,i>9,i>7,i>0],l>[i>0,i>11,i>10,i>0],l>[i>0,i>17,i>7,i>1],l>[i>0,i>22,i>12,i>1],l>[i>0,i>9,i>12,i>1],l>[i>0,i>8,i>16,i>1]]
+req:s>200
+weather:s>sunny

@@ -1,0 +1,4 @@
+fullscreen:i>0
+sfx:f>0.7
+fps:i>0
+bsound:f>0.6

@@ -1,0 +1,11 @@
+name:s>11
+enemies:l>[s>skeleton,s>wolf,s>skeleton,s>goblin,s>wolf]
+waves:i>2
+wave_t:l>[i>5,i>30,i>10,i>20,i>20]
+quantity:l>[i>10,i>5,i>10,i>15,i>10]
+map:s>map11.xml
+start:l>[i>4,i>0]
+waypoint:l>[l>[i>4,i>6],l>[i>14,i>6],l>[i>14,i>11],l>[i>21,i>11],l>[i>21,i>8],l>[i>32,i>8]]
+req:s>10
+reward:i>160
+weather:s>snow

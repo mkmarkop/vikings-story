@@ -1,0 +1,11 @@
+name:s>19
+enemies:l>[s>warrior,s>warrior]
+waves:i>2
+wave_t:l>[i>5,i>20]
+quantity:l>[i>3,i>3]
+map:s>map19.xml
+start:l>[i>30,i>0]
+waypoint:l>[l>[i>30,i>3],l>[i>25,i>3],l>[i>25,i>10],l>[i>5,i>10],l>[i>5,i>15],l>[i>-1,i>15]]
+req:s>18
+reward:i>90
+weather:s>sunny
